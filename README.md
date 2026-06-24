@@ -57,7 +57,7 @@ ensight-reader-rs = { git = "https://github.com/therealfatdoge/ensight-reader-rs
 
 ```toml
 [dependencies]
-ensight-reader-rs = { git = "https://github.com/therealfatdoge/ensight-reader-rs.git", tag = "v0.1.0" }
+ensight-reader-rs = { git = "https://github.com/therealfatdoge/ensight-reader-rs.git", tag = "v0.1.1" }
 ```
 
 ## Example
