@@ -1,0 +1,11 @@
+[package]
+name = "ensight-reader-rs"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Rust reader for Ensight Gold files"
+repository = "https://github.com/therealfatdoge/ensight-reader-rs"
+readme = "README.md"
+
+[dependencies]
+byteorder = "1"
